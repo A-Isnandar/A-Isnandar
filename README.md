@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @A-Isnandar
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning web3 and blockchain
-- 💞️ I’m looking to collaborate on project community
-- ⚡ Fun fact: web3 explorer and berachain maxi
+# Hi, I'm Ario (Metaminer)
 
-<!---
-A-Isnandar/A-Isnandar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about **Front-End Development**, **Web3**, and **Community Building**.  
+My focus is on bridging Web2 and Web3 by creating accessible content, building communities, and learning how to develop user-friendly applications.  
+
+### Current Roles
+- **Arbitrum Ambassador** – supporting ecosystem growth through content, events, and community initiatives.  
+- **Socrates Contributor** – moderating online debates, introducing features, and helping onboard new users.  
+
+### Skills
+- **Development:** HTML, CSS, JavaScript (currently learning frameworks)  
+- **Tools:** Git, VS Code, Figma, Notion  
+- **Other:** Microsoft Office, Content Writing, Public Speaking  
+
+### What I'm Working On
+- Learning and improving in front-end development  
+- Creating technical and non-technical content around Web3  
+- Engaging with communities both online and offline
+- Airdroper and Trader  
+
+### Connect
+- X (Twitter): [@metaminer49](https://x.com/metaminer49)  
+
+---
+
+Always open to collaborate on projects, content, and community initiatives.
