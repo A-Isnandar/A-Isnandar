@@ -8,7 +8,7 @@ My focus is on bridging Web2 and Web3 by creating accessible content, building c
 - **Socrates Contributor** – moderating online debates, introducing features, and helping onboard new users.  
 
 ### Skills
-- **Development:** HTML, CSS, JavaScript (currently learning frameworks)  
+- **Development:** HTML, CSS, JavaScript  
 - **Tools:** Git, VS Code, Figma, Notion  
 - **Other:** Microsoft Office, Content Writing, Public Speaking  
 
