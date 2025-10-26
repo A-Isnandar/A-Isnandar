@@ -5,7 +5,7 @@ My focus is on bridging Web2 and Web3 by creating accessible content, building c
 
 ### Current Roles
 - **Arbitrum Ambassador** – supporting ecosystem growth through content, events, and community initiatives.  
-- **Socrates Contributor** – moderating online debates, introducing features, and helping onboard new users.  
+- **Socrates Ambassador** – moderating online debates, introducing features, and helping onboard new users.  
 
 ### Skills
 - **Development:** HTML, CSS, JavaScript  
