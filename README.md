@@ -17,7 +17,7 @@ I am passionate about Front-End, Web3 Development, and Community Building.<br>My
 ![](https://nirzak-streak-stats.vercel.app/?user=A-Isnandar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Isnandar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
